@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Bundle-Melody-extlib
-version:            0.9.6
+version:            0.9.6b
 abstract:           ~
 author:
     - Timothy Appnel <tima@cpan.org>
